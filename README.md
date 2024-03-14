@@ -1,10 +1,16 @@
 <h1 align="center">Hey friends, I'm Ismael!</h1>
 
-<h3 align="center">Software developer from Seville, Spain</h3>
+<div align="center">
+
+### Software developer from Seville, Spain ![Spain](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png) 
+
+</div>
+
+<hr>
 
 <div>
 
-### I'm currently...
+#### I'm currently...
 
 - Working on **bill management application**
  
@@ -26,5 +32,17 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-franco-velasco-2804071b9/) [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelfrancovelasco@gmail.com/)
 
 Feel free to reach out with any questions, comments or advice! I'm open to discussing and sharing my knowledge.
+
+</div>
+
+<hr>
+
+<div align="center">
+
+## My Github Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ifranvel&include_all_commits=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifranvel&layout=compact&theme=dark&bg_color=0A0A0A" alt="Ismael Top Languages"/>
 
 </div>
